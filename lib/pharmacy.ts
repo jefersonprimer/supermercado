@@ -1,0 +1,16 @@
+export const STORE_SETTINGS = {
+  pharmacyName: "Fanfar Farmácias",
+  city: "Frederico Westphalen",
+  state: "RS",
+  address: "Rua do Comércio, 480 - Centro",
+  phone: "(55) 3744-1234",
+  whatsappNumber: "5555999887766",
+  whatsappDisplay: "(55) 99988-7766",
+  instagramUrl: "https://www.instagram.com/superbertoletti",
+  businessHoursWeekday: "Segunda a Sábado: 07:30 às 22:00",
+  businessHoursWeekend: "Domingos e Feriados: 08:00 às 20:00 (Plantão)",
+  pharmacistResponsible: "Dra. Gabriela Fanfar - Farmacêutica",
+  crfRs: "CRF/RS 18.492",
+  anvisaAfe: "AFE: 7.82.910-4",
+  cnpj: "38.452.190/0001-44",
+};
